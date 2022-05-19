@@ -14,4 +14,4 @@ jobs:
       - name: Sync LeetCode Today Problem
         uses: spencercjh/sync-leetcode-today-problem@0.4.3
         with:
-          language: Java
+          language: Cpp
