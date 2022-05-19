@@ -1,2 +1,2 @@
 # sync-leetcode-today-problem
-CPP Github Action
+Leetcode Today Problem Sync Github Action
